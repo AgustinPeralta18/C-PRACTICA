@@ -1,0 +1,16 @@
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\Lab1Clase1.exe
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\Lab1Clase1.deps.json
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\Lab1Clase1.runtimeconfig.json
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\Lab1Clase1.runtimeconfig.dev.json
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\Lab1Clase1.dll
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\ref\Lab1Clase1.dll
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\bin\Debug\net5.0\Lab1Clase1.pdb
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.csproj.AssemblyReference.cache
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.AssemblyInfoInputs.cache
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.AssemblyInfo.cs
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.csproj.CoreCompileInputs.cache
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.dll
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\ref\Lab1Clase1.dll
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.pdb
+C:\Users\aguss\source\repos\Lab1Clase1\Lab1Clase1\obj\Debug\net5.0\Lab1Clase1.genruntimeconfig.cache
